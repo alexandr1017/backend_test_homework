@@ -15,3 +15,15 @@ build/
 
 *.log
 !main.log
+
+
+venv/
+
+__pycache__/
+
+*.log
+
+.vscode/
+.idea/
+
+.env
